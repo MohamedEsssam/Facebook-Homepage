@@ -1,0 +1,145 @@
+body{
+    background: linear-gradient(to bottom right,white,#bcbdc4);
+    height: 1000px;
+}
+ header{
+   position: absolute;
+    width: 100%;
+    height: 90px;
+    background: #415e9b;
+    top: 0;
+    left: 0;
+    color: white;
+    display: inline;
+}
+#logo{
+    font-family: Verdana;
+    font-size: 35px;
+    margin-left: 13%;
+    margin-top: 2.25%;
+}
+
+#form1{
+    position: absolute;
+    top:30%;
+    right:400px;
+    color: white;
+    
+}
+#mail{
+    
+    
+    width: 150px;
+    height: 20px;
+    border: solid black .5px;
+}
+#pass{
+    position: absolute;
+    margin-top: -17px;
+    right:-60px;
+}
+#password{
+    position: absolute;
+    top:31%;
+    right:-160px;
+    width: 150px;
+    height: 20px;
+    border: solid black .5px;
+
+}
+#forget{
+    position: absolute;
+    top:70%;
+    right:-105px;
+    font-family: Verdana;
+    font-size: 12px;
+    color: rgb(165, 187, 187);
+}
+#in{
+    position: absolute;
+    top:29%;
+    right:-236px;
+    color: white;
+    font-family: Verdana;
+    background-color: rgb(63, 94, 189); 
+    border: #38538f solid .1px; 
+    cursor: pointer; 
+    height:25px ;
+}
+#in:hover{
+    background-color: #415e9b
+}
+.sign_up{
+    font-weight: bold;
+     color: black;
+     text-align: right;
+}
+.right{
+    width:45%;
+	position:absolute;
+	top:82%;
+	left:56%;
+    color: black;
+}
+#a{
+    color:#333;
+     font-size:36px;
+      font-family:Helvetica, Arial, sans-serif;
+       font-weight:700;
+}
+#b{
+    position:absolute;
+    top:13%;
+    left:1%;
+    color:#1d2129;
+     font-size:19px;
+      font-family:Helvetica, Arial, sans-serif;
+      
+}
+.registration_form
+{
+background-color:white;
+border: 1px solid rgb(189, 199, 216);
+border-radius:5px;
+font-family:Helvetica, Arial, sans-serif;
+font-size:18px;
+font-weight:400;
+outline-color:rgb(77, 144, 254);
+padding-bottom:8px;
+padding-top:8px;
+padding-left:10px;
+padding-right:10px;
+margin:6px;
+}
+#p{
+    color:#1d2129; font-size:19px; font-family:Helvetica, Arial, sans-serif;
+}
+.grander{
+    color:rgb(29, 33, 41);
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:18px;
+    font-weight:400;
+    padding-left:3px;
+	padding-right:10px;    
+}
+#submit{
+    font-size:18px;	
+	background-color:rgb(105, 167, 78);
+	border:1px solid rgb(59, 110, 34);
+	color:white;
+	width:194px;
+	text-align:center;
+	font-weight:700;
+	text-shadow:rgba(0, 0, 0, 0.5) 0px 1px 2px;
+	border-radius:5px;
+    height:39px;
+    cursor: pointer;
+    font-family: Helvetica, Arial, sans-serif;
+}
+#submit:hover{
+    background-color:rgb(148, 233, 109);
+}
+#copyright{
+    position: relative;
+    right:500px;
+}
