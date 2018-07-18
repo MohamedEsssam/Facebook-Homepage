@@ -143,3 +143,16 @@ margin:6px;
     position: relative;
     right:500px;
 }
+
+#output{
+    position:absolute;
+    left: 420px;
+    top: 16px
+}
+#out{
+    position: absolute;
+    left:245px ;
+    top: 80.5%;
+    width: 70px;
+    background: white;
+}
